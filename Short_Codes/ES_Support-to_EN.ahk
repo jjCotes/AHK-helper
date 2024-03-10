@@ -1,6 +1,6 @@
 /*
 	    | Edit by jjCotes |
-	Date Of Last Edit: 25/Jul/2023
+	Date Of Last Edit: 09/Mar/2024
 	Source: https://github.com/jjCotes/60-percent-ahk
 	Needs UFT-8 with BOM: NO
 	Description:
@@ -59,7 +59,7 @@ Hl:
 	Run https://github.com/jjCotes/60-percent-ahk#es_support-to_enahk
 Return
 
-F24:: ; Selected F24 because I dont need tha hotkey that hard
+F24:: ; Selected F24 because I dont need that hotkey that hard
 	Suspend
 	GoTO refreshICON
 

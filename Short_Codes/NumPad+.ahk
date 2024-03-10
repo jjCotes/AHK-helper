@@ -1,6 +1,6 @@
 /*
 	    | Edit by jjCotes |
-	Date Of Last Edit: 24/Jul/2023
+	Date Of Last Edit: 09/Mar/2024
 	Source: https://github.com/jjCotes/60-percent-ahk
 	Needs UFT-8 with BOM: NO
 	Description:
@@ -46,7 +46,7 @@ Hl:
 	Gui, Hide
 Return
 
-AppsKey & +:: ; Hotkey to Toggle Suspend 
+F24:: ; Selected F24 because I dont need that hotkey that hard
 	Suspend
 	GoTO refreshICON
 

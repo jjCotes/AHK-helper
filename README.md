@@ -6,13 +6,13 @@
     When I started to mess with 60% keyboards I figure needed a way to keep using some keys from full-size that where not present in 60% layouts, some times said keyboards don't have a PrtSc key and some other useful stuff. First solution to this problem would be using a full-size Keyboard instead but I needed to travel with it, second solution is using QMK to set the needed keys to a macro but the keyboard that I got does not support QMK, so the best solution for me was AHK.
 </p>
 <p align="justify">
-    I had some experience using AHK for productivity on big keyboards by simplifying shortcuts, this time the intended thing was the opposite, creating shortcuts for the actuation of a single key. When I got it to work them started to experiment with other productivity problems, those solutions are being displayed in the repository. Main.ahk is the current set in use
+    I had some experience using AHK for productivity on big keyboards by simplifying shortcuts, this time the intended thing was the opposite, creating shortcuts for the actuation of a single key. When I got it to work them started to experiment with other productivity problems, those solutions are being displayed in the repository. Main.ahk is the current set in use.
 </p>
 
 
 
 <h3>About AutoHotKey</h3>
-If you ask something like "Can I write a script on AHK that...?" probably the answer is yes
+If you ask something like "Can I write a script on AHK that...?" probably the answer is yes.
 
 
 | Matter        | Description                                       | link                                                                     |
@@ -22,7 +22,7 @@ If you ask something like "Can I write a script on AHK that...?" probably the an
 | Download      | <sub>Installer</sub>                              | <a href="https://www.autohotkey.com/download/ahk-install.exe">[link]</a> |
 | Documentation | <sub>Beginner tutorial</sub>                      | <a href="https://www.autohotkey.com/docs/v1/Tutorial.htm">[link]</a>     |
 
-Scrips in this repository are intented for AHK v1
+Scrips in this repository are intented for AHK v1.
 
 **Startup folder:** `Win` + `R` | `shell:startup`
 
@@ -31,7 +31,7 @@ Scrips in this repository are intented for AHK v1
 
 <h2 align="center">MediaNav.ahk</h2>
 <p align="justify"> 
-    This code creates shortcuts for some Multimedia Keyfuntions using a combination of the AppsKey and some others
+    This code creates shortcuts for some Multimedia Keyfuntions using a combination of the AppsKey and some others.
 </p>
 
 | Shortcut        | Line of Code                            | Action        | Status |
@@ -60,7 +60,7 @@ Scrips in this repository are intented for AHK v1
 
 <h2 align="center">Character_Helper.ahk</h2>
 <p align="justify"> 
-    This code creates a shortcut for every greek letter and some useful mathematical symbols. For greek letter the shortcut consist in writing a dot next the name of the letter [ .alpha ] and a coma for capital letters [ ,alpha ]. For mathematical symbols some of the shortcuts are a dot followed by the name [ .naturalnumbers ] and in some cases a dot followed by a convination con symbols [ .!= ]
+    This code creates a shortcut for every greek letter and some useful mathematical symbols. For greek letter the shortcut consist in writing a dot next the name of the letter [ .alpha ] and a coma for capital letters [ ,alpha ]. For mathematical symbols some of the shortcuts are a dot followed by the name [ .naturalnumbers ] and in some cases a dot followed by a convination of symbols [ .!= ].
 </p>
 <p align="right">
     <a href="https://youtu.be/jXgzQpJc14M">[Original idea]</a>
@@ -165,7 +165,7 @@ Scrips in this repository are intented for AHK v1
 
 <h2 align="center">ES_Support-to_EN.ahk</h2>
 <p align="justify"> 
-    This code creates shortcuts for some especial characters for Spanish and French when the keyboard language is set to English, on Spanish the short cut work with `Alt` + `C` or `N` for `Ç` and `Ñ` respectively, on French the shortcut consist of writing dot or coma followed by a vowel and an exponential [ .a^ ]
+    This code creates shortcuts for some especial characters for Spanish and French when the keyboard language is set to English, on Spanish the short cut work with `Alt` + `C` or `N` for `Ç` and `Ñ` respectively, on French the shortcut consist of writing dot or coma followed by a vowel and an exponential [ .a^ ].
 </p>
 
 <h3>Spanish charaters</h3>
